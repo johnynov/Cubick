@@ -3,8 +3,8 @@
 #include <Adafruit_BMP280.h>
 
 //AP do którego podlaczam ESP32 - jako client
-const char *ssid_cli = "Rydelka";
-const char *password_cli = "rydla4444";
+const char *ssid_cli = "yourSSID";
+const char *password_cli = "yourPASS";
 
 const char* ssid_ap = "ESP32_ap";
 const char* password_ap =  "wroom32";
